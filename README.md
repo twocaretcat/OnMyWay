@@ -1,22 +1,22 @@
 <!-- Project Header -->
-<div align="center"> 
+<div align="center">
   <img class="projectLogo" src="app/src/main/ic_launcher-web.png" alt="Project logo" title="Project logo" width="256">
 
   <h1 class="projectName">OnMyWay</h1>
 
   <p class="projectBadges">
     <img src="https://johng.io/badges/category/App.svg" alt="Project category" title="Project category">
-    <img src="https://img.shields.io/github/languages/top/jerboa88/OnMyWay.svg" alt="Language" title="Language">
-    <img src="https://img.shields.io/github/repo-size/jerboa88/OnMyWay.svg" alt="Repository size" title="Repository size">
+    <img src="https://img.shields.io/github/languages/top/twocaretcat/OnMyWay.svg" alt="Language" title="Language">
+    <img src="https://img.shields.io/github/repo-size/twocaretcat/OnMyWay.svg" alt="Repository size" title="Repository size">
     <a href="LICENSE">
-      <img src="https://img.shields.io/github/license/jerboa88/OnMyWay.svg" alt="Project license" title="Project license"/>
+      <img src="https://img.shields.io/github/license/twocaretcat/OnMyWay.svg" alt="Project license" title="Project license"/>
     </a>
   </p>
-  
+
   <p class="projectDesc">
     A ride sharing Android app featuring QR-bucks, a contactless payment system using QR codes. Created as part of a class project by Bardia, John, Mahin, Manpreet, Neel, and Payas.
   </p>
-  
+
   <br/>
 </div>
 
@@ -105,4 +105,3 @@ Answer: [Link](https://stackoverflow.com/questions/4846484/md5-hashing-in-androi
 
 ## License
 This project is released under the Apache 2.0 license. See the [license file](LICENSE.md) for details
-
